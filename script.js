@@ -9,7 +9,7 @@ myLibraryAFunction
 */
 
 // STEP 2
-/*
+/*  
 3.1416 				// numeric literal 
 "Hello World!" 		// string literal 
 true 				// Boolean literal 
